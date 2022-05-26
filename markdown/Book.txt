@@ -1,0 +1,11 @@
+About This Book
+Outline
+Introduction
+Theory of Web Scraping
+Setting Up a Development Environment1
+Quick Python Basics
+The Requests Library
+The BeautifulSoup Library
+The PyMongo Library
+Project 1 Build a Cryptocurrency Alert App
+Project 2 A Stock Price Alert System

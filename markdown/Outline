@@ -1,0 +1,55 @@
+# Outline
+## Introduction
+    What is web scraping
+    How to read this book
+    Why should you learn web scraping
+## Theoretical outline
+    Basics of the web
+    What is web scraping (more in depth)
+    Why scrape the web?
+    Spiders versus scrapers
+    Ethics and legality of web scraping
+    Beginner web scraper design
+## Setting up our environment
+    Virtual machines
+    Installing Python
+    Installing the required libraries
+    Installing MongoDB
+## Quick Python Basics
+    Variables, math and concatenation
+    Loops
+    Functions
+    Libraries
+## The Requests library
+    Our first request: making a GET request to Google
+    Understanding GET and POST requests
+    Introduction to API scraping
+    Making a simple web API
+    The Binance API
+    Using the Binance API to get stock price data
+    …
+## The BeautifulSoup library
+    Introduction to page scraping
+    Introduction to BeautifulSoup
+    Basic page parsing with BeautifulSoup
+    Nested parsing with BeautifulSoup
+    Using xrefs with BeautifulSoup
+    Scraping IMDB: An introduction
+    Scraping an actor page
+    …
+## The pymongo library
+    Introduction to MongoDB
+    MongoDB+Python with pymongo
+    Logging crypto price data with pymongo and Binance
+## Project 1: A cryptocurrency alert system
+    Introduction to the problem
+    Scraping prices
+    Setting up simple boundaries to alert on
+    Sending emails
+    Logging prices in MongoDB
+## Project 2: A stock alert system
+    Introduction to the problem
+    Scraping prices
+    Setting up simple boundaries to alert on
+    Sending emails
+    Logging prices in MongoDB
