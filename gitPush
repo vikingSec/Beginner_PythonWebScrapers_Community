@@ -1,0 +1,1 @@
+GIT_SSH_COMMAND='ssh -i /home/vik/.ssh/id_rsa_vikingSec -o IdentitiesOnly=yes' git push git@github.com:vikingSec/Beginner_PythonWebScrapers_Community.git main

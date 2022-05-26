@@ -1,0 +1,39 @@
+# Introduction
+
+## A bit about me...
+
+Hello! My name is Mitch Edwards. I'm a threat intelligence and cyber security researcher by day and a software developer and right wing extremism researcher by night. I'm also a [YouTuber](https://youtube.com/viking_sec), [blogger](https://valhallaresearch.net), [newsletter author](https://www.getrevue.co/profile/valhalla_dev), cigar afficionado, powerlifter, dad and husband. I've been developing software for over 10 years now, with much of that being spent writing web scrapers and spiders.
+
+I've written web scrapers to detect censorship on Chinese social media, to study darkweb markets where malware is bought and sold, to track and study right wing extremism online and more. Web scrapers have been a huge part of my career, and they continue to be one of my favorite problems to solve. This book is the start of a series of books on web scraping that will summarize and expand upon the last several years of experience in developing web scrapers both big and small. It also draws upon my experience teaching web scraper development through a course published in 2021 on Udemy that reached over 250 students, as well as coursework I have taught in person in my local community.
+
+Enough about me...
+
+* * *
+
+## What the hell are web scrapers??
+
+That's the million-dollar question, isn't it?
+
+Web scrapers are programs that collect information from the web in a more or less automated fashion. We will go further into the weeds on how web scrapers work fairly soon, but essentially web scrapers can do exactly what humans do when we surf the web. We read information, upload information, interact with other users, add content, delete content and make decisions. Web scrapers can do the exact same things that we do, but they can do it at the speed of computing, limited only by their design and implementation. Web scrapers take action based upon programmable logic, just like any other Python script or console program, but they are specifically built to automate web-based activity like collecting information from web-based resources or posting information to the web.
+
+In the context of this book, we're specifically going to be talking about web scrapers built in the Python programming language. We're going to talk about all kinds of web scrapers, to include web scrapers that post information to the web, but there is a (hazy) line between bots, or programs that are specifically built to post information in an automated fashion like bots that automatically like or retweet tweets, and scrapers, whose typical function is more focused on collecting information, such as a scraper that pulls down stock price information. That separation is, as I said, hazy, and there isn't a perfect way to define what is a bot and what is a scraper, as they are often functionally the same thing. Instead of arguing definitions, we will operate on the one below:
+
+"A scraper is a purposeful automated program whose primary function is to collect information from a web-based resource."
+
+Now, what does the word "purposeful" mean in the above definition?
+
+Well, the web scrapers we talk about in this book don't just pull down information for no reason. You could certainly develop purposeless scrapers, as I'm sure I have at some point in the last couple years, but this book will focus on scrapers that have a specific type of information to gather for a specific and existing purpose. This is not meant to be an insult to [r/datahoarders](https://www.reddit.com/r/DataHoarder/) and similar communities, but we're not going to focus on the collection of data for its own sake.
+
+A simple, one-line definition of web scraping isn't quite enough, though... it doesn't do the complexity of the problems of web scraping justice at all. Here is where we talk about what will be your most favorite or least favorite part of the book: 
+
+Theory.
+
+I'll be honest with you, I'm a bit of a nerd about theory. I really love it. From programming frameworks and philosophies to theoretical and practical system design, I eat theory up. It's not for everyone, though, and some people let me know (fairly brutally, in at least one case) that the theory in my online course on web scraping was boring. The theory-based sections of that course were by far the most skipped portions according to Udemy's metric.
+
+So, in the interest of free-will, I'm giving you the option of skipping the theory sections. I'm even making it easier for you by putting the bulk of the theory in the next chapter. You purchased the book, or, if you got in early, maybe you got it for free, but the express meaning of that trade is that you get to do with this book what you will. Skim it, read it back-to-front, copy/paste the code out of it and move on, I don't really care.
+
+However, I'm not writing this book just for the sake of reading my own words. I have Twitter for endlessly pontificating on the subject of the day, I don't need to write thousands of words and hundreds of lines of code to do that. I'm writing this book because I want to *educate* people. I want to move the science forward. I want debate and I want to be proven wrong. 
+
+The only way for you to truly grasp the subject matter we will be covering in this book and the next ones in the series is to truly understand the theory of web scraper development. You could skip the theory and go right to the project sections, and you'll probably still learn a lot. One of the hardest lessons to learn as someone in software development (and cyber security, for that matter) is that you can go about learning in such a way that you have paper intelligence. Paper intelligence is all about knowing the facts: you can write each line of code from memory. Where you are lacking, though, is in not having any more depth than that: you don't know what the lines *mean* or why they are written in the way that they are. You can't innovate, you can't experiment, you can't push the industry or science forward.
+
+I don't want to give you paper intelligence. I want you to be the one that pushes the industry and science forward. I want you to bend and break things, I want you to build and innovate things. So, I'm pleading with you, suspend your need for entertainment and easy code samples for just one chapter and bear with the theory. I promise you that you will look back on that decision fondly once you are a superhero dev.

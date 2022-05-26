@@ -1,0 +1,29 @@
+## Python Web Scraping for Beginners
+
+### About
+
+If you're reading this, it's because you have decided to embark upon a journey with me to write a whole series of books on Python web scraping in public. If you have no idea what I'm talking about, welcome! My name is Mitch Edwards, or @valhalla_dev if you [follow me on Twitter](https://twitter.com/valhalla_dev), and I've been a developer for the better part of the last 10 years. In that time, I've developed countless projects for myself and a multitude of employers, from simple hacky scripts to large-scale enterprise data solutions. I spend my "free time" writing scrapers to research right wing extremism, economics, social media and more, developing malware to learn more about reverse engineering and developing startups. That's a lot to take in, so if you are interested in any of those subjects, here is where you can find my research.
+
+[Twitter](https://twitter.com/valhalla_dev) - where I post updates and links to all of my research and development, including the development of this book
+
+[My newsletter](https://www.getrevue.co/profile/valhalla_dev) - I have a weekly newsletter where I talk about software development, countering right wing extremism and, now, writing this book! This is a good way to get updates about what I'm working on and the different things I'm focusing on in a given week.
+
+[Valhalla Research](https://valhallaresearch.net) - where I post research regarding countering right wing extremism, software development, political philosophy and cyber security.
+
+[YouTube](https://youtube.com/viking_sec) - where I post video content related to cyber security and software development topics
+
+* * *
+
+Now, let's get talking about this book!
+
+I previously developed a course on developing web scrapers and spiders using Python. I taught the course to over 250 students on [Udemy](https://www.udemy.com/course/scrape-the-planet/learn/) and [released the course for free on YouTube](https://www.youtube.com/watch?v=8Xu-H2GM2AM&list=PL1jK3K11NINiOn4DdIDVdyQpcU3kaNxl0) after a couple of months. Now I want to expand on a lot of the lessons I taught in that course in a series of books. This book is the first of that series.
+
+#### Building a book in public
+
+This book will be written entirely in public. I'm releasing this book as-is in chunks, which is why I chose Leanpub as a publisher and CMS. In the beginning, the book in its unfinished form will be free for people to follow along, but eventually I will put it behind a paywall once there is something worth paying for. People who have been following along from the beginning will continue getting it for free, so there's a lot of benefit in being an early fan!
+
+I will be tweeting and blogging about the actual act of developing the book, and I'll keep Twitter in particular up to date about updates to the book. I'll also be uploading all of the code to GitHub publicly and for free, so you'll also benefit from open source software.
+
+For now, though, that's all! Thank you all for the current and future support, and share this book with friends far and wide!
+
+
